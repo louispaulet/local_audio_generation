@@ -1,0 +1,10 @@
+xformers==0.0.25.post1
+jupyter
+pandas
+numpy
+scipy
+seaborn
+matplotlib 
+einops
+stable-audio-tools
+flash-attn
